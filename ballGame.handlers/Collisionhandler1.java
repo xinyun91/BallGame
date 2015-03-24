@@ -1,4 +1,4 @@
-package lab6.handlers;
+package ballGame.handlers;
 
 import engine.Entity;
 import engine.collision.CollisionListener;
