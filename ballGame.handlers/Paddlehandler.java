@@ -1,8 +1,8 @@
-package lab6.handlers;
+package ballGame.handlers;
 
 import java.awt.event.KeyEvent;
 import java.awt.event.KeyListener;
-import lab6.entities.Paddle;
+import ballGame.entities.Paddle;
 
 public class Paddlehandler implements KeyListener {
     
